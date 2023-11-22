@@ -1,11 +1,8 @@
-# Car HMI Dashboard UI using Flutter
+# UI Dasbor HMI Mobil menggunakan Flutter
 
-## [Watch it on YouTube](https://youtu.be/7ND8CzsYrXk)
+Tahukah kamu? Karena dukungan perangkat Flutter yang tertanam, Anda bahkan dapat membuat DASHBOARD untuk mobil 🚗.
 
-
-Do you know? Due to Flutter's embedded device support, you can even build a DASHBOARD for a car 🚗. 
-
-### Car HMI
+### Mobil HMI
 
 
 ![App UI](/ui.png)
